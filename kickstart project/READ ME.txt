@@ -1,0 +1,12 @@
+1.change the databse connect details
+   host,user ,password 
+
+goto folder conn->dp.php  change the details
+
+
+2. change the name of javascript files .js
+ goto folder assets->js  
+	open the js folder & change the all file extenstion .js
+
+
+thank you...;)
