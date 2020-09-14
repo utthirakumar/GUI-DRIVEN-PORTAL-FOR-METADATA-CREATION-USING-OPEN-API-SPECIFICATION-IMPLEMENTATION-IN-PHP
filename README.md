@@ -47,7 +47,7 @@ project backend php code automatically created a database & then the tables
 
 ```````
 
-# I this project completed by 
+# In this project completed by 
 ```
     1.UTTHIRA KUMAR K
     2.SATHISH KUMAR B
