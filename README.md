@@ -57,6 +57,6 @@ thank you :)
 # In this project completed by 
 ```
     1.UTTHIRA KUMAR K
-    2.SATHISH KUMAR B
+  
 ```
 
